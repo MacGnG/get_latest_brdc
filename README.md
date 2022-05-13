@@ -1,6 +1,8 @@
 # get_latest_brdc
 this will download and get the latest brdc file 
 
+*.  PLEASE READ FILE COMMENTS  .*
+
 **for use with https://github.com/osqzss/gps-sdr-sim software**
 
 The Original script is _very_ oudated ...I updated it.
