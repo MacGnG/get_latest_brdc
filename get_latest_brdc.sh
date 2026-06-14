@@ -1,7 +1,7 @@
 #!/bin/bash
 ## MacGnG - get_latest_brdc
-## https://github.com/MacGnG/get_latest_brdc/edit/main/README.md
-##
+## https://github.com/MacGnG/get_latest_brdc/blob/main/README.md
+## ** Tested working on Sunday, June 14th, 2026 @ 06:05 AM Eastern Time Zone.
 ##
 ## sample command for gps-sdr-sim (8bit and static location)
 ## gps-sdr-sim -b 8 -e brdc1330.22n -l 39.087822,-94.577656,100
